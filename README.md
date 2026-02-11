@@ -19,7 +19,7 @@
     <img alt="Seguidores" src="https://img.shields.io/github/followers/Davi2910?style=for-the-badge&logo=github&label=Seguidores&color=blue"/>
   </a>
   <a href="https://github.com/Davi2910?tab=repositories&sort=stargazers">
-    <img alt="Total de Estrelas" src="https://img.shields.io/github/stars/Davi2910?style=for-the-badge&logo=github&label=Estrelas&color=yellow&affiliations=OWNER"/>
+    <img alt="Total de Estrelas" src="https://img.shields.io/github/stars/Davi2910?style=for-the-badge&logo=github&label=Estrelas&color=yellow"/>
   </a>
 </p>
 
@@ -34,13 +34,13 @@
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+## 🤖 Tech Stack
 
 <p align="center">
-  <img alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img alt="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img alt="C" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
 
 ---
